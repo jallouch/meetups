@@ -5,6 +5,12 @@ Editez ce fichier et soumettez une pull request pour faire votre proposition
 ## Talks à venir
 
  - **Building a React Native App From Scratch**: React Native, as a new way to develop mobile application with little to no knowledge about native development, allowed us to go from nothing to a released mobile app in less than 3 months.
+This presentation will cover:
+* Why Nuxeo chose React Native for its new mobile application? 
+* What are the advantages for us? 
+* How did we work around issues / limitations?
+
+ Speaker: Antoine Taillefer & Thomas Roger - Senior Software Developer at Nuxeo
 
  
 ## Talks passés 
